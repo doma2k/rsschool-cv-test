@@ -50,4 +50,3 @@ As an infrastructure engineer specializing in backend and blockchain technologie
 
 - Binance Zero2Hero
 - Near
-
